@@ -1,0 +1,30 @@
+table{
+    border: solid 1px;
+    border: outset;
+    width: 700px;
+    height: 150px;
+    background-color: aqua;
+}
+
+th{
+    background-color: rgb(4, 51, 35);
+    color: antiquewhite;
+   
+}
+tr{
+    border: solid black 1px; 
+    background-color: rgb(182, 246, 157);
+    border: blue;
+}
+td{
+    border: solid black 1px; 
+    background-color: rgb(116, 217, 184);
+    border: blue;
+}
+.col-1 {
+    width: 300px;
+    
+}
+.fila2{
+    background-color: rgb(85, 148, 111);
+}
